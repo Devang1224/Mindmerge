@@ -1,6 +1,8 @@
 import Image from "next/image";
 import krishnaImage from "@/assets/krishnaLogo.png";
 import Chats from "../chats/Chats";
+import Input from "../inputFIeld/Input";
+
 
 const Body = () => {
   return (
@@ -17,6 +19,8 @@ const Body = () => {
       </div>
 
       <Chats/>
+      <Input/>
+
     </div>
   );
 };
