@@ -13,7 +13,7 @@ const Body = () => {
           <Image src={krishnaImage} width={80} height={80} />
         </p>
         <p className="text-[#b38e62]">
-          Get Answers to Life's Questions with GitaGPT - Your AI Spiritual
+          Get Answers to Life's Questions with MindMerge - Your AI Spiritual
           Companion.
         </p>
       </div>

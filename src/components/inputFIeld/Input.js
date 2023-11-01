@@ -3,6 +3,7 @@ import SendIcon from '@mui/icons-material/Send';
 const Input = () => {
     return (
         <div className="w-full flex flex-col items-center p-4">
+            
             <div className='w-[50%] rounded text-white p-4 mb-1'>
                 <div className='flex'>
                   <p className='bg-[#6c757d] p-2 rounded-lg ml-2 cursor-pointer hover:bg-[#5c636a]'>What is life's purpose?</p>
