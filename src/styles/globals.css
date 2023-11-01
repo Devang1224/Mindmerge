@@ -8,3 +8,8 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body{
+  width:100vw;
+  background-color: rgba(33,37,41)!important;
+}
